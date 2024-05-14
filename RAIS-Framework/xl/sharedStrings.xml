@@ -1,5 +1,592 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="194" uniqueCount="114"><si><t>Initial Risk</t></si><si><t>(Average)</t></si><si><t>Remaining Risk</t></si><si><t>Social and Ethical</t></si><si><t>Industry-Specific and Regulatory</t></si><si><t>IS and Regulatory</t></si><si><t>Technical</t></si><si><t>Likelihood:</t></si><si><t>Very likely</t></si><si><t>Likely</t></si><si><t>Somewhat likely</t></si><si><t>Neither unlikely nor likely</t></si><si><t>Somewhat unlikely</t></si><si><t>Unlikely</t></si><si><t>Very unlikely</t></si><si><t>Impact:</t></si><si><t>Very insignificant impact</t></si><si><t>Insignificant impact</t></si><si><t>Somewhat insignificant impact</t></si><si><t>Neither insignificant nor significant</t></si><si><t>Somewhat significant impact</t></si><si><t>Significant impact</t></si><si><t>Very significant impact</t></si><si><t>Risk Levels</t></si><si><t>Risk 1-10</t></si><si><t>Low Risk</t></si><si><t>Risk 11-20</t></si><si><t>Some Risk</t></si><si><t>Risk 21-30</t></si><si><t>Medium Risk</t></si><si><t>Risk 31-40</t></si><si><t>High Risk</t></si><si><t>Risk 41-50</t></si><si><t>Severe Risk</t></si><si><t>Vulnerability / Threat</t></si><si><t>Details</t></si><si><t>Likelihood</t></si><si><t>Impact</t></si><si><t>Mitigating Measures/Requirements for Uses (if any)</t></si><si><t>Date of Last Update</t></si><si><t>Restricted Uses</t></si><si><t>Uses of the system that are subject to a legal restriction, list them here and the likelihood that the system would not meet requirements.</t></si><si><t>Unsupported Uses</t></si><si><t>Potential uses for which the system was not designed or evaluated or that should be avoided, list them here and the likelihood that this usecase would occur.</t></si><si><t>Sensitive Uses – Consequential impact on legal position or life opportunities</t></si><si><t>Scenarios where the use or misuse of the AI system could affect an individual’s: legal status, legal rights, access
-to credit, education, employment, healthcare, housing, insurance, and social welfare benefits, services, or opportunities, or the terms on which they are provided.</t></si><si><t>Sensitive Uses – Risk of physical or psychological injury</t></si><si><t>Scenarios where the use or misuse of the AI system could result in significant physical or psychological injury to an individual.</t></si><si><t>Threat to Human Rights</t></si><si><t>Scenarios where the use or misuse of the AI system could restrict, infringe upon, or undermine the ability to realize an individual’s human rights. (Note: because human rights are interdependent and interrelated, AI can affect nearly every internationally recognized human right.)</t></si><si><t>Known Limitations</t></si><si><t>Describe the known limitations of the system. This could include scenarios where the system will not perform well, environmental factors to consider, or other operating factors to be aware of.</t></si><si><r><rPr><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t xml:space="preserve">Average </t></r><r><rPr><b/><sz val="11"/><color theme="1"/><rFont val="Calibri"/><family val="2"/></rPr><t>Initial</t></r><r><rPr><sz val="11"/><color theme="1"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> risk</t></r></si><si><r><rPr><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t xml:space="preserve">Average </t></r><r><rPr><b/><sz val="11"/><color rgb="FF000000"/><rFont val="Calibri"/><family val="2"/></rPr><t>Remaining</t></r><r><rPr><sz val="11"/><color rgb="FF000000"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> risk</t></r></si><si><t>Negligible</t></si><si><t>Managed by routine mitigation; covered in normal procedures</t></si><si><t>Requires specific mitigation and caution</t></si><si><t>Immediate action required</t></si><si><t>Unacceptable</t></si><si><t>Impact Significance</t></si><si><t>0</t></si><si><t>N/A</t></si><si><t>1-2</t></si><si><t>3-4</t></si><si><t>5-6</t></si><si><r><rPr><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t xml:space="preserve">Average </t></r><r><rPr><b/><sz val="11"/><color theme="1"/><rFont val="Calibri"/><family val="2"/></rPr><t>Initial</t></r><r><rPr><sz val="11"/><color theme="1"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> risk</t></r></si><si><r><rPr><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t xml:space="preserve">Average </t></r><r><rPr><b/><sz val="11"/><color rgb="FF000000"/><rFont val="Calibri"/><family val="2"/></rPr><t>Remaining</t></r><r><rPr><sz val="11"/><color rgb="FF000000"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> risk</t></r></si><si><t>Meets requirements; managed by routine mitigation; covered in normal procedures</t></si><si><t>May meet requirements; requires specific mitigation and caution</t></si><si><t>Unlikely to meet requirements; immediate action required</t></si><si><t>Does not meet requirements; unacceptable</t></si><si><t>Risk Assessment: Data</t></si><si><t>Data requirements</t></si><si><t>Scope, scaling, &amp; maintenance</t></si><si><r><rPr><b/><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t xml:space="preserve">Average </t></r><r><rPr><b/><u/><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t>Initial</t></r><r><rPr><b/><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t xml:space="preserve"> risk</t></r></si><si><r><rPr><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t xml:space="preserve">Average </t></r><r><rPr><b/><u/><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t>Remaining</t></r><r><rPr><sz val="11"/><color theme="1"/><rFont val="Calibri, Arial"/></rPr><t xml:space="preserve"> risk</t></r></si><si><t>Risk Assessment: Social and Ethical</t></si><si><t>Risk Assessment: Industry-Specific and Regulatory</t></si><si><t xml:space="preserve">Radical Ventures, 2023 </t></si><si><t>Industry-specific considerations</t></si><si><t>Regulatory considerations</t></si><si><t>Likelihood (of non-compliance)</t></si><si><t>Describe regulatory requirements for the operating jurisdiction and consider the company's capacity for compliance.
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="194" uniqueCount="114">
+<si>
+<t>Initial Risk</t>
+</si>
+<si>
+<t>(Average)</t>
+</si>
+<si>
+<t>Remaining Risk</t>
+</si>
+<si>
+<t>Social and Ethical</t>
+</si>
+<si>
+<t>Industry-Specific and Regulatory</t>
+</si>
+<si>
+<t>IS and Regulatory</t>
+</si>
+<si>
+<t>Technical</t>
+</si>
+<si>
+<t>Likelihood:</t>
+</si>
+<si>
+<t>Very likely</t>
+</si>
+<si>
+<t>Likely</t>
+</si>
+<si>
+<t>Somewhat likely</t>
+</si>
+<si>
+<t>Neither unlikely nor likely</t>
+</si>
+<si>
+<t>Somewhat unlikely</t>
+</si>
+<si>
+<t>Unlikely</t>
+</si>
+<si>
+<t>Very unlikely</t>
+</si>
+<si>
+<t>Impact:</t>
+</si>
+<si>
+<t>Very insignificant impact</t>
+</si>
+<si>
+<t>Insignificant impact</t>
+</si>
+<si>
+<t>Somewhat insignificant impact</t>
+</si>
+<si>
+<t>Neither insignificant nor significant</t>
+</si>
+<si>
+<t>Somewhat significant impact</t>
+</si>
+<si>
+<t>Significant impact</t>
+</si>
+<si>
+<t>Very significant impact</t>
+</si>
+<si>
+<t>Risk Levels</t>
+</si>
+<si>
+<t>Risk 1-10</t>
+</si>
+<si>
+<t>Low Risk</t>
+</si>
+<si>
+<t>Risk 11-20</t>
+</si>
+<si>
+<t>Some Risk</t>
+</si>
+<si>
+<t>Risk 21-30</t>
+</si>
+<si>
+<t>Medium Risk</t>
+</si>
+<si>
+<t>Risk 31-40</t>
+</si>
+<si>
+<t>High Risk</t>
+</si>
+<si>
+<t>Risk 41-50</t>
+</si>
+<si>
+<t>Severe Risk</t>
+</si>
+<si>
+<t>Vulnerability / Threat</t>
+</si>
+<si>
+<t>Details</t>
+</si>
+<si>
+<t>Likelihood</t>
+</si>
+<si>
+<t>Impact</t>
+</si>
+<si>
+<t>Mitigating Measures/Requirements for Uses (if any)</t>
+</si>
+<si>
+<t>Date of Last Update</t>
+</si>
+<si>
+<t>Restricted Uses</t>
+</si>
+<si>
+<t>Uses of the system that are subject to a legal restriction, list them here and the likelihood that the system would not meet requirements.</t>
+</si>
+<si>
+<t>Unsupported Uses</t>
+</si>
+<si>
+<t>Potential uses for which the system was not designed or evaluated or that should be avoided, list them here and the likelihood that this usecase would occur.</t>
+</si>
+<si>
+<t>Sensitive Uses – Consequential impact on legal position or life opportunities</t>
+</si>
+<si>
+<t>Scenarios where the use or misuse of the AI system could affect an individual’s: legal status, legal rights, access
+to credit, education, employment, healthcare, housing, insurance, and social welfare benefits, services, or opportunities, or the terms on which they are provided.</t>
+</si>
+<si>
+<t>Sensitive Uses – Risk of physical or psychological injury</t>
+</si>
+<si>
+<t>Scenarios where the use or misuse of the AI system could result in significant physical or psychological injury to an individual.</t>
+</si>
+<si>
+<t>Threat to Human Rights</t>
+</si>
+<si>
+<t>Scenarios where the use or misuse of the AI system could restrict, infringe upon, or undermine the ability to realize an individual’s human rights. (Note: because human rights are interdependent and interrelated, AI can affect nearly every internationally recognized human right.)</t>
+</si>
+<si>
+<t>Known Limitations</t>
+</si>
+<si>
+<t>Describe the known limitations of the system. This could include scenarios where the system will not perform well, environmental factors to consider, or other operating factors to be aware of.</t>
+</si>
+<si>
+<r>
+<rPr>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t xml:space="preserve">Average </t>
+</r>
+<r>
+<rPr>
+<b/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t>Initial</t>
+</r>
+<r>
+<rPr>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> risk</t>
+</r>
+</si>
+<si>
+<r>
+<rPr>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t xml:space="preserve">Average </t>
+</r>
+<r>
+<rPr>
+<b/>
+<sz val="11"/>
+<color rgb="FF000000"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t>Remaining</t>
+</r>
+<r>
+<rPr>
+<sz val="11"/>
+<color rgb="FF000000"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> risk</t>
+</r>
+</si>
+<si>
+<t>Negligible</t>
+</si>
+<si>
+<t>Managed by routine mitigation; covered in normal procedures</t>
+</si>
+<si>
+<t>Requires specific mitigation and caution</t>
+</si>
+<si>
+<t>Immediate action required</t>
+</si>
+<si>
+<t>Unacceptable</t>
+</si>
+<si>
+<t>Impact Significance</t>
+</si>
+<si>
+<t>0</t>
+</si>
+<si>
+<t>N/A</t>
+</si>
+<si>
+<t>1-2</t>
+</si>
+<si>
+<t>3-4</t>
+</si>
+<si>
+<t>5-6</t>
+</si>
+<si>
+<r>
+<rPr>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t xml:space="preserve">Average </t>
+</r>
+<r>
+<rPr>
+<b/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t>Initial</t>
+</r>
+<r>
+<rPr>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> risk</t>
+</r>
+</si>
+<si>
+<r>
+<rPr>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t xml:space="preserve">Average </t>
+</r>
+<r>
+<rPr>
+<b/>
+<sz val="11"/>
+<color rgb="FF000000"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t>Remaining</t>
+</r>
+<r>
+<rPr>
+<sz val="11"/>
+<color rgb="FF000000"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> risk</t>
+</r>
+</si>
+<si>
+<t>Meets requirements; managed by routine mitigation; covered in normal procedures</t>
+</si>
+<si>
+<t>May meet requirements; requires specific mitigation and caution</t>
+</si>
+<si>
+<t>Unlikely to meet requirements; immediate action required</t>
+</si>
+<si>
+<t>Does not meet requirements; unacceptable</t>
+</si>
+<si>
+<t>Risk Assessment: Data</t>
+</si>
+<si>
+<t>Data requirements</t>
+</si>
+<si>
+<t>Scope, scaling, &amp; maintenance</t>
+</si>
+<si>
+<r>
+<rPr>
+<b/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t xml:space="preserve">Average </t>
+</r>
+<r>
+<rPr>
+<b/>
+<u/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t>Initial</t>
+</r>
+<r>
+<rPr>
+<b/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t xml:space="preserve"> risk</t>
+</r>
+</si>
+<si>
+<r>
+<rPr>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t xml:space="preserve">Average </t>
+</r>
+<r>
+<rPr>
+<b/>
+<u/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t>Remaining</t>
+</r>
+<r>
+<rPr>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri, Arial"/>
+</rPr>
+<t xml:space="preserve"> risk</t>
+</r>
+</si>
+<si>
+<t>Risk Assessment: Social and Ethical</t>
+</si>
+<si>
+<t>Risk Assessment: Industry-Specific and Regulatory</t>
+</si>
+<si>
+<t xml:space="preserve">Radical Ventures, 2023 </t>
+</si>
+<si>
+<t>Industry-specific considerations</t>
+</si>
+<si>
+<t>Regulatory considerations</t>
+</si>
+<si>
+<t>Likelihood (of non-compliance)</t>
+</si>
+<si>
+<t>Describe regulatory requirements for the operating jurisdiction and consider the company's capacity for compliance.
 
-This may include compliance with data protection and privacy regulations, such as GDPR and CCPA;  liability and accountability for AI decisions and actions; intellectual property, including copyright and patent infringement risks.</t></si><si><t>Impact (if non-compliant)</t></si><si><t>Impact (of non-compliance)</t></si><si><t xml:space="preserve">Describe any industry-specific regulatory  considerations where the AI technology is being applied and consider the company's capacity for compliance with industry-specific regulations, e.g. HIPAA. </t></si><si><t>Mitigating measures for impact (if any)</t></si><si><t xml:space="preserve">Mitigating measures for how the company will comply with regulation (if any) </t></si><si><t>Mitigating measures for impact of non-compliance  (if any)</t></si><si><t>No or insignificant risk to assets and personnel, and/or low negative impact on stakeholders or company</t></si><si><t>Somewhat insignificant risk to assets and personnel, and/or some negative impact on stakeholders or company</t></si><si><t>Meaningful risk to assets and personnel, and/or negative impact on stakeholders or company</t></si><si><t>Life threatening risk and/or critical negative impact on stakeholders or company</t></si><si><t>No or insignificant risk to assets and personnel, and/or low negative impact on company</t></si><si><t>Somewhat insignificant risk to assets and personnel, and/or some negative impact on company</t></si><si><t>Meaningful risk to assets and personnel, and/or negative impact on company</t></si><si><t>Life threatening risk and/or critical negative impact on company</t></si><si><t>Describe risks associated with the data requirements with respect to the system’s intended uses, stakeholders, and the geographic areas where the system will be deployed. (Note: omit regulatory consideration and include on the "Industry-Specific and Regulatory" tab.)</t></si><si><t>Models &amp; infrastructure – Technology readiness</t></si><si><t>Models &amp; infrastructure – Task complexity</t></si><si><t xml:space="preserve">Models &amp; infrastructure –  Energy and environmental considerations </t></si><si><t>Mitigating measures for likelihood (if any)</t></si><si><t xml:space="preserve">Mitigating measures for impact (if any) </t></si><si><r><t>Describe  technology readiness –  the likelihood  the system is</t></r><r><rPr><b/><i/><sz val="11"/><color theme="1"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> not </t></r><r><rPr><i/><sz val="11"/><color theme="1"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve">supported by research and has </t></r><r><rPr><b/><i/><sz val="11"/><color theme="1"/><rFont val="Calibri"/><family val="2"/></rPr><t>not</t></r><r><rPr><i/><sz val="11"/><color theme="1"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> been deployed to production systems at scale for similar uses and the associated impact on users and stakeholders.</t></r></si><si><r><t xml:space="preserve">Describe the task complexity – the likelihood that there will be a </t></r><r><rPr><b/><i/><sz val="11"/><color rgb="FF000000"/><rFont val="Calibri"/><family val="2"/></rPr><t>high number of features</t></r><r><rPr><i/><sz val="11"/><color rgb="FF000000"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> as well as</t></r><r><rPr><b/><i/><sz val="11"/><color rgb="FF000000"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> difficult interpretability</t></r><r><rPr><i/><sz val="11"/><color rgb="FF000000"/><rFont val="Calibri"/><family val="2"/></rPr><t xml:space="preserve"> and complexity in setting boundaries for classification categories, etc. and the associated impact on users and stakeholders.</t></r></si><si><t xml:space="preserve">Describe the likelihood for large energy consumption and other considerations focused on environmental impacts linked to model training and inference and the associated impact at large. </t></si><si><t xml:space="preserve">Describe any additional potential risks pertaining to specifically to  third party auditability of systems and models and community inclusion. </t></si><si><t xml:space="preserve">Models &amp; infrastructure –  Auditability and community </t></si><si><t xml:space="preserve">Describe any risks or vulnerability associated with scaling, adapting, and maintaining the technology including existential risk as a product of scale and its impact at large. </t></si><si><t>Management</t></si><si><t>Relationships – Supply chain, customers, and partnerships</t></si><si><t xml:space="preserve">Describe vulnerabilities associated with the company's relationships including  supply chain, customers, vendors, and strategic partnerships. </t></si><si><t>Describe vulnerabilities associated with the company's management team including track record, diversity in skillsets, as well as considerations for diversity, equity, and inclusion, and codifying  decision-making processes.</t></si><si><t>RESPONSIBLE AI STARTUPS (RAIS) FRAMEWORK</t></si></sst>
+This may include compliance with data protection and privacy regulations, such as GDPR and CCPA;  liability and accountability for AI decisions and actions; intellectual property, including copyright and patent infringement risks.</t>
+</si>
+<si>
+<t>Impact (if non-compliant)</t>
+</si>
+<si>
+<t>Impact (of non-compliance)</t>
+</si>
+<si>
+<t xml:space="preserve">Describe any industry-specific regulatory  considerations where the AI technology is being applied and consider the company's capacity for compliance with industry-specific regulations, e.g. HIPAA. </t>
+</si>
+<si>
+<t>Mitigating measures for impact (if any)</t>
+</si>
+<si>
+<t xml:space="preserve">Mitigating measures for how the company will comply with regulation (if any) </t>
+</si>
+<si>
+<t>Mitigating measures for impact of non-compliance  (if any)</t>
+</si>
+<si>
+<t>No or insignificant risk to assets and personnel, and/or low negative impact on stakeholders or company</t>
+</si>
+<si>
+<t>Somewhat insignificant risk to assets and personnel, and/or some negative impact on stakeholders or company</t>
+</si>
+<si>
+<t>Meaningful risk to assets and personnel, and/or negative impact on stakeholders or company</t>
+</si>
+<si>
+<t>Life threatening risk and/or critical negative impact on stakeholders or company</t>
+</si>
+<si>
+<t>No or insignificant risk to assets and personnel, and/or low negative impact on company</t>
+</si>
+<si>
+<t>Somewhat insignificant risk to assets and personnel, and/or some negative impact on company</t>
+</si>
+<si>
+<t>Meaningful risk to assets and personnel, and/or negative impact on company</t>
+</si>
+<si>
+<t>Life threatening risk and/or critical negative impact on company</t>
+</si>
+<si>
+<t>Describe risks associated with the data requirements with respect to the system’s intended uses, stakeholders, and the geographic areas where the system will be deployed. (Note: omit regulatory consideration and include on the "Industry-Specific and Regulatory" tab.)</t>
+</si>
+<si>
+<t>Models &amp; infrastructure – Technology readiness</t>
+</si>
+<si>
+<t>Models &amp; infrastructure – Task complexity</t>
+</si>
+<si>
+<t xml:space="preserve">Models &amp; infrastructure –  Energy and environmental considerations </t>
+</si>
+<si>
+<t>Mitigating measures for likelihood (if any)</t>
+</si>
+<si>
+<t xml:space="preserve">Mitigating measures for impact (if any) </t>
+</si>
+<si>
+<r>
+<t>Describe  technology readiness –  the likelihood  the system is</t>
+</r>
+<r>
+<rPr>
+<b/>
+<i/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> not </t>
+</r>
+<r>
+<rPr>
+<i/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve">supported by research and has </t>
+</r>
+<r>
+<rPr>
+<b/>
+<i/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t>not</t>
+</r>
+<r>
+<rPr>
+<i/>
+<sz val="11"/>
+<color theme="1"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> been deployed to production systems at scale for similar uses and the associated impact on users and stakeholders.</t>
+</r>
+</si>
+<si>
+<r>
+<t xml:space="preserve">Describe the task complexity – the likelihood that there will be a </t>
+</r>
+<r>
+<rPr>
+<b/>
+<i/>
+<sz val="11"/>
+<color rgb="FF000000"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t>high number of features</t>
+</r>
+<r>
+<rPr>
+<i/>
+<sz val="11"/>
+<color rgb="FF000000"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> as well as</t>
+</r>
+<r>
+<rPr>
+<b/>
+<i/>
+<sz val="11"/>
+<color rgb="FF000000"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> difficult interpretability</t>
+</r>
+<r>
+<rPr>
+<i/>
+<sz val="11"/>
+<color rgb="FF000000"/>
+<rFont val="Calibri"/>
+<family val="2"/>
+</rPr>
+<t xml:space="preserve"> and complexity in setting boundaries for classification categories, etc. and the associated impact on users and stakeholders.</t>
+</r>
+</si>
+<si>
+<t xml:space="preserve">Describe the likelihood for large energy consumption and other considerations focused on environmental impacts linked to model training and inference and the associated impact at large. </t>
+</si>
+<si>
+<t xml:space="preserve">Describe any additional potential risks pertaining to specifically to  third party auditability of systems and models and community inclusion. </t>
+</si>
+<si>
+<t xml:space="preserve">Models &amp; infrastructure –  Auditability and community </t>
+</si>
+<si>
+<t xml:space="preserve">Describe any risks or vulnerability associated with scaling, adapting, and maintaining the technology including existential risk as a product of scale and its impact at large. </t>
+</si>
+<si>
+<t>Management</t>
+</si>
+<si>
+<t>Relationships – Supply chain, customers, and partnerships</t>
+</si>
+<si>
+<t xml:space="preserve">Describe vulnerabilities associated with the company's relationships including  supply chain, customers, vendors, and strategic partnerships. </t>
+</si>
+<si>
+<t>Describe vulnerabilities associated with the company's management team including track record, diversity in skillsets, as well as considerations for diversity, equity, and inclusion, and codifying  decision-making processes.</t>
+</si>
+<si>
+<t>RESPONSIBLE AI STARTUPS (RAIS) FRAMEWORK</t>
+</si>
+</sst>
